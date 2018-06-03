@@ -1,0 +1,32 @@
+body {
+  background-color: #252830;
+  margin: 30px auto;
+  max-width: 560px;
+  line-height: 28px;
+  font-size: 20px;
+  color: #cfd2da;
+  padding: 0 10px;
+  font-family: "Helvetica Neue","Helvetica,sans-serif";
+  font-weight: 300;
+  letter-spacing: 0.3;
+}
+h1 {
+  font-weight: 300;
+  font-size: 35px;
+  color: #fff;
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+a {
+  color: #1CA8DD;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.avatar {
+  margin-right: 15px;
+}
+.header {
+  text-align: center;
+}
