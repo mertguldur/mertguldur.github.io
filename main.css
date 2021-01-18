@@ -1,13 +1,20 @@
 body {
   margin: 30px auto;
-  max-width: 600px;
+  max-width: 800px;
   line-height: 28px;
-  font-size: 20px;
-  padding: 0 10px;
-  font-family: "Source Sans Pro","Helvetica Neue","Helvetica,sans-serif";
+  font-size: 22px;
+  padding: 0 30px;
+  font-family: 'Noto Sans SC', sans-serif;
+  background-color: #151515;
+  color: #FFFFFF;
+}
+h1 {
+  font-family: "Inter", sans-serif;
+  color: #EAAC8B;
 }
 a {
-  color: #5C7C00;
+  font-family: "Inter", sans-serif;
+  color: #B56576;
   text-decoration: none;
 }
 a:hover {
